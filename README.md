@@ -1,10 +1,11 @@
-
-### 🧑🏾 Olá! Eu sou o Cleilton Santos 
+<div align="center">
+<h1>Cleilton Santos</h1>
+</div>
 
 
 🎷 Saxofonista que toca códigos através de partituras!💻
 
-Tendo em vista que o conhecimento nos leva a lugares incríveis decidi embarcar na programação, com o objetivo de fazer parte desse mundo tão fascinante. Assim estou focado na minha transição de carreira para que em um futuro não muito distante já possa contribuir com todos nesse caminho. 
+Tendo em vista que o conhecimento nos leva a lugares incríveis decidi embarcar na programação, com o objetivo de conhecer e fazer parte desse mundo tão fascinante. Assim estou focado na minha transição de carreira para que em um futuro não muito distante já possa contribuir com todos nesse caminho. 
 
 Atualmente estudando o Curso Desenvolvimento Web - Programador Br e
 tendo a mentoria da Marilia Augusta, uma desenvolvedora Front-end.
